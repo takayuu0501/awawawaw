@@ -337,7 +337,7 @@
     "@ladjs/gulp-envify": "2.0.1",
     "@ladjs/pug-lint": "2.6.1",
     "@ladjs/pug-lint-config-lad": "0.1.1",
-    "@prettier/plugin-pug": "2.5.1",
+    "@prettier/plugin-pug": "2.5.2",
     "@ronilaukkarinen/gulp-stylelint": "14.1.2",
     "ava": "5.3.1",
     "axios": "1.20.0",
